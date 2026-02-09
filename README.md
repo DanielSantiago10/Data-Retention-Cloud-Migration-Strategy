@@ -27,13 +27,13 @@ The "cost of doing nothing" is estimated at **$300,000+**.
 To address these risks while remaining cost-conscious, I have designed a 10-week implementation roadmap:
 
 ### Phase 1: Policy Development (5 Weeks)
-> 📂 **Project Assets:** View the full [Data Retention Schedule](https://www.google.com/search?q=./DATA_RETENTION_SCHEDULE.md) for detailed compliance timelines.
+> 📂 **Project Assets:** View the full [Data Retention Schedule](https://github.com/DanielSantiago10/Data-Retention-Cloud-Migration-Strategy/blob/main/Data_Retention_Scheudle.md) for detailed compliance timelines.
 * Define a formal **Data Retention Schedule** (identifying **Structured** vs. **Unstructured** data).
 * Collaborate with Legal and IT to ensure compliance with data governance regulations.
 * Categorize data into "Hot" (frequent access) and "Cold" (archival) tiers.
 
 ### Phase 2: Cloud Storage Integration (3 Weeks)
-> 📝 **Decision Log:** See why we chose our Cloud Service Provider in the [Selection Guide](https://www.google.com/search?q=./CSP_SELECTION_GUIDE.md).
+> 📝 **Decision Log:** See why we chose our Cloud Service Provider in the [Selection Guide](https://github.com/DanielSantiago10/Data-Retention-Cloud-Migration-Strategy/blob/main/CSP_Selection_Guide.md)
 * Migrate data to a Cloud Service Provider (CSP) to leverage **Virtualization** and **Redundancy**.
 * Implement **Object Storage** (Buckets) for unstructured data (images, PDFs, documents).
 * Utilize **Archival Storage Classes** for cold data to minimize **OpEx** (Operational Expenditure).
