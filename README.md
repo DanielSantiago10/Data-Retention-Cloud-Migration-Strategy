@@ -27,13 +27,12 @@ The "cost of doing nothing" is estimated at **$300,000+**.
 To address these risks while remaining cost-conscious, I have designed a 10-week implementation roadmap:
 
 ### Phase 1: Policy Development (5 Weeks)
-
+> 📂 **Project Assets:** View the full [Data Retention Schedule](https://www.google.com/search?q=./DATA_RETENTION_SCHEDULE.md) for detailed compliance timelines.
 * Define a formal **Data Retention Schedule** (identifying **Structured** vs. **Unstructured** data).
 * Collaborate with Legal and IT to ensure compliance with data governance regulations.
 * Categorize data into "Hot" (frequent access) and "Cold" (archival) tiers.
 
 ### Phase 2: Cloud Storage Integration (3 Weeks)
-> 📂 **Project Assets:** View the full [Data Retention Schedule](https://www.google.com/search?q=./DATA_RETENTION_SCHEDULE.md) for detailed compliance timelines.
 
 * Migrate data to a Cloud Service Provider (CSP) to leverage **Virtualization** and **Redundancy**.
 * Implement **Object Storage** (Buckets) for unstructured data (images, PDFs, documents).
