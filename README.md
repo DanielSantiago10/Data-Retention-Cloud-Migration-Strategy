@@ -33,6 +33,7 @@ To address these risks while remaining cost-conscious, I have designed a 10-week
 * Categorize data into "Hot" (frequent access) and "Cold" (archival) tiers.
 
 ### Phase 2: Cloud Storage Integration (3 Weeks)
+> 📂 **Project Assets:** View the full [Data Retention Schedule](https://www.google.com/search?q=./DATA_RETENTION_SCHEDULE.md) for detailed compliance timelines.
 
 * Migrate data to a Cloud Service Provider (CSP) to leverage **Virtualization** and **Redundancy**.
 * Implement **Object Storage** (Buckets) for unstructured data (images, PDFs, documents).
@@ -72,7 +73,3 @@ This project utilizes the core principles of Cloud Cybersecurity:
 ## 🏁 Conclusion & Recommendations
 
 By moving to a cloud-based storage model, Cymbal Bank will not only mitigate a $300,000 financial risk but also improve its overall security posture. We move from a **CapEx** model (buying expensive servers) to a flexible **OpEx** model (paying only for what we use), ensuring long-term sustainability.
-
----
-
-**Next Step:** Would you like me to help you create a **Phase 1: Policy Template** (the actual document that defines how long to keep specific types of data) to add to your repository's `/docs` folder?
