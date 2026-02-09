@@ -1,5 +1,10 @@
 # Project: Data Retention & Cloud Migration Strategy
 
+## 📁 Project Documentation
+* 📈 [Executive Summary & Risk Proposal](./EXECUTIVE_SUMMARY.md)
+* ☁️ [Cloud Provider Selection Guide](./CSP_SELECTION_GUIDE.md)
+* 📅 [Data Retention Schedule](./DATA_RETENTION_SCHEDULE.md)
+  
 ### Organization: Cymbal Bank (Digital Transformation Initiative)
 
 **Role:** Junior Cloud Security Analyst
