@@ -43,5 +43,3 @@ Once a record reaches the end of its retention period:
 3. **Cryptographic Erasure:** For cloud-based data, we utilize the CSP’s secure deletion protocol to ensure data is unrecoverable.
 
 ---
-
-## 🛠️ GitHub Repo Tip:
