@@ -1,8 +1,8 @@
 # Project: Data Retention & Cloud Migration Strategy
 
-## 📁 Project Documentation
-* 📈 [Executive Summary & Risk Proposal](./EXECUTIVE_SUMMARY.md)
-* ☁️ [Cloud Provider Selection Guide](./CSP_SELECTION_GUIDE.md)
+## 📁 Project Documentation.md
+* 📈 [Executive Summary & Risk Proposal](https://github.com/DanielSantiago10/Data-Retention-Cloud-Migration-Strategy/blob/main/Security_Incident_Response.md)
+* ☁️ [Cloud Provider Selection Guide](https://github.com/DanielSantiago10/Data-Retention-Cloud-Migration-Strategy/blob/main/CSP_Selection_Guide.md)
 * 📅 [Data Retention Schedule](https://github.com/DanielSantiago10/Data-Retention-Cloud-Migration-Strategy/blob/main/Data_Retention_Schedule.md)
   
 ### Organization: Cymbal Bank (Digital Transformation Initiative)
