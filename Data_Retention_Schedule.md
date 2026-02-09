@@ -45,10 +45,3 @@ Once a record reaches the end of its retention period:
 ---
 
 ## 🛠️ GitHub Repo Tip:
-
-When you upload this to GitHub, make sure to link it in your `README.md`. You can add a line like this:
-
-> 📂 **Project Assets:** View the full [Data Retention Schedule](https://www.google.com/search?q=./DATA_RETENTION_SCHEDULE.md) for detailed compliance timelines.
-
-**What's Next?**
-Since Phase 2 of your plan is **Cloud Storage Integration**, would you like me to help you write a **"Cloud Selection Guide"** comparing Google Cloud, AWS, and Azure specifically for a bank's security needs?
