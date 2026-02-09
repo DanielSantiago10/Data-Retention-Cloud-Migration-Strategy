@@ -33,7 +33,7 @@ To address these risks while remaining cost-conscious, I have designed a 10-week
 * Categorize data into "Hot" (frequent access) and "Cold" (archival) tiers.
 
 ### Phase 2: Cloud Storage Integration (3 Weeks)
-
+> 📝 **Decision Log:** See why we chose our Cloud Service Provider in the [Selection Guide](https://www.google.com/search?q=./CSP_SELECTION_GUIDE.md).
 * Migrate data to a Cloud Service Provider (CSP) to leverage **Virtualization** and **Redundancy**.
 * Implement **Object Storage** (Buckets) for unstructured data (images, PDFs, documents).
 * Utilize **Archival Storage Classes** for cold data to minimize **OpEx** (Operational Expenditure).
